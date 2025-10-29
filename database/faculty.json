@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "Mr. Vickey Yadav",
+    "email": "vickey734@gmail.com",
+    "password": "vickey@123",
+    "department": "Science",
+    "phone": "9079869901",
+    "office": "Room-104",
+    "courses": [5, 7,8]
+  },
+  {
+    "id": 2,
+    "name": "Mrs. Anjali Sharma",
+    "email": "anjali.sharma@school.edu",
+    "password": "teacher@123",
+    "department": "Mathematics",
+    "phone": "+91-9876543210",
+    "office": "Room-201",
+    "courses": [1, 2]
+  },
+  {
+    "id": 3,
+    "name": "Mr. Rakesh Mehta",
+    "email": "rakesh.mehta@school.edu",
+    "password": "teacher@123",
+    "department": "Social Studies",
+    "phone": "+91-8765432109",
+    "office": "Lab-2",
+    "courses": [2, 3]
+  },
+  {
+    "id": 4,
+    "name": "Mrs. Neha Verma",
+    "email": "neha.verma@school.edu",
+    "password": "teacher@123",
+    "department": "English",
+    "phone": "+91-9123456780",
+    "office": "Room-103",
+    "courses": [1, 3, 4]
+  },
+  {
+    "id": 5,
+    "name": "Mr. Rohit Singh",
+    "email": "rohit.singh@school.edu",
+    "password": "teacher@123",
+    "department": "Physical Education",
+    "phone": "+91-9988776655",
+    "office": "Sports Block",
+    "courses": [4, 5]
+  },
+  {
+    "id": 6,
+    "name": "Mrs. Kavita Nair",
+    "email": "kavita.nair@school.edu",
+    "password": "teacher@123",
+    "department": "Art and Craft",
+    "phone": "+91-9090909090",
+    "office": "Art Room",
+    "courses": [3, 6]
+  }
+
+]
